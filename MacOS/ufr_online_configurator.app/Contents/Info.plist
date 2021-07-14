@@ -11,9 +11,9 @@
 	<key>CFBundleGetInfoString</key>
 	<string>ufr_online_configurator version 1.0</string>
 	<key>CFBundleIconFile</key>
-	<string>dlogic_sample.icns</string>
+	<string>icon</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dlogic.ufr_online_configurator</string>
+	<string>com.dlogic.ufronlineconfigurator</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleLocalizations</key>
@@ -55,6 +55,8 @@
 	<string>1240</string>
 	<key>DTXcodeBuild</key>
 	<string>12D4e</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.9</string>
 	<key>NSHumanReadableCopyright</key>

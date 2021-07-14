@@ -3,17 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/icon.icns</key>
+		<data>
+		l17tzYFDqAp9BrhhbHKcJ+o3OoY=
+		</data>
+	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Frameworks/libwx_osx_cocoa.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			7bCYN/tu0kqy13JCBIuaK8Q1OfU=
+			i4vaSFn3NegVbhv8Y8w6UHMWfRE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"07f9da5d1a02550680004a676b6cc878992f0b63" or cdhash H"edb09837fb6ed24ab2d77242048b9a2bc43539f5" or cdhash H"2c2770b9b48f7fe3fa649c7551373fa454d9172f" or cdhash H"df40450dcefa4285a3fcfcd8bc99294247d1388b"</string>
+			<string>identifier "libwx_osx_cocoa-55554944b19241ac7fee3a0a9b01cb0d66de1a61" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Sladjan Simic (5LUWNF7Z7T)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Resources/icon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l17tzYFDqAp9BrhhbHKcJ+o3OoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			X9BvksEqDsjGYTet9CgFspnXPhHhm4Byz4kZ6IZsRGA=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
